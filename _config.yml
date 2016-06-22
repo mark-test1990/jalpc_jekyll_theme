@@ -25,9 +25,6 @@ landing:
   about: 'About'
   career: 'Career'
   skills: 'Skills'
-  projects: 'Project'
-  blog: 'Blog'
-  contact: 'Contact'
 
 # my projects
 project:
